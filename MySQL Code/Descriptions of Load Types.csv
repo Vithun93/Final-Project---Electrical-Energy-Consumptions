@@ -1,0 +1,4 @@
+Load_Type,Description
+Light_Load,Energy Consumption is low level
+Medium_Load,Energy Consumption is in medium level
+Maximum_Load,Energy consumption is very high level
